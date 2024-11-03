@@ -1,7 +1,5 @@
 # Food Production
 
-[TOC]
-
 ## Issues of Food Production in Connection to Globalisation
 
 Globalisation has a profound impact on food production, bringing both opportunities and challenges. Below are the key issues, supported by scientific evidence, presented in keywords:
@@ -35,17 +33,12 @@ The film focuses on the meat industry and shows how globalization has affected i
 - The use of genetically modified crops and monoculture farming practices has led to a loss of biodiversity and soil degradation.
 - The film also shows how government policies favor large agribusinesses over small farmers, making it difficult for small-scale farmers to compete in the market.
 
-![youtube-video](media/live/ehjinc-7wuw.jpeg "click to load video"){#eHJiNC_7wuw .youtube}
+!?[youtube-video](https://www.youtube.com/watch?v=eHJiNC_7wuw)
 
 In the end, the film presents alternatives to industrial food production, such as supporting small-scale and sustainable agriculture, buying locally-grown produce, and reducing meat consumption. The movie also encourages viewers to advocate for better food policies and support organizations that promote sustainable agriculture.
 
 ## Meat Atlas
 
-![youtube-video](media/live/m-okr7gcwi.jpeg "click to load video"){#m-_okr7GCWI .youtube}
+!?[meat atlas video](https://www.youtube.com/watch?v=UVsFN-P4mcU)
 
 This publication sheds light on the impacts of meat and dairy production, and aims to catalyse the debate over the need for better, safer and more sustainable food and farming. 
-
-[Meat Atlas 2021 (PDF, 2.95 MB)](media/files/meat-atlas-2021.pdf){.tm-download file-pdf}
-
-[Meat Atlas 2014 (PDF, 3.95 MB)](media/files/meat-atlas2014-kommentierbar.pdf){.tm-download file-pdf}
-
